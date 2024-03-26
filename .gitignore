@@ -1,0 +1,7 @@
+venv
+razvenv
+Mid_Project
+.ipynb_checkpoints
+.idea
+Data/*
+data/*
