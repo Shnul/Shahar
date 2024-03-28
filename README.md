@@ -1,6 +1,5 @@
-# Mid_Project
+# Mid Project - The Pokédex
 
-My project will be called Pokedex.
+Every Pokemon trainer needs his Pokedex.
 
-Every Pokemon trainer (client) needs his Pokedex.
 
